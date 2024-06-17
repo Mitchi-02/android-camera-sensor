@@ -1,4 +1,4 @@
-# Android App With Camera Sensor
+# Android App With Proximity Sensor
 An android app that uses a forgeround service and a proximity sensor, for a school assignement.
 ## Getting Started
 ### Clone the Repository
