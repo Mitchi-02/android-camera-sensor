@@ -1,5 +1,5 @@
-# Android App With Light Service
-An android app that uses a forgeround service, for a school assignement.
+# Android App With Camera Sensor
+An android app that uses a forgeround service and a camera sensor, for a school assignement.
 ## Getting Started
 ### Clone the Repository
   ```bash
